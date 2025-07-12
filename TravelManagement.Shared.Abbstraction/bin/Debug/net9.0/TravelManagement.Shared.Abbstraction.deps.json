@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TravelManagement.Shared.Abbstraction/1.0.0": {
+        "runtime": {
+          "TravelManagement.Shared.Abbstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TravelManagement.Shared.Abbstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

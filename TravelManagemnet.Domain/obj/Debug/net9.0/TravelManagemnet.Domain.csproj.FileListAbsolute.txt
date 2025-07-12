@@ -1,0 +1,15 @@
+D:\lib\TravelManegment\TravelManagemnet.Domain\bin\Debug\net9.0\TravelManagemnet.Domain.deps.json
+D:\lib\TravelManegment\TravelManagemnet.Domain\bin\Debug\net9.0\TravelManagemnet.Domain.dll
+D:\lib\TravelManegment\TravelManagemnet.Domain\bin\Debug\net9.0\TravelManagemnet.Domain.pdb
+D:\lib\TravelManegment\TravelManagemnet.Domain\bin\Debug\net9.0\TravelManagement.Shared.Abbstraction.dll
+D:\lib\TravelManegment\TravelManagemnet.Domain\bin\Debug\net9.0\TravelManagement.Shared.Abbstraction.pdb
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.csproj.AssemblyReference.cache
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.AssemblyInfoInputs.cache
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.AssemblyInfo.cs
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.csproj.CoreCompileInputs.cache
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelMa.3E684FC8.Up2Date
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.dll
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\refint\TravelManagemnet.Domain.dll
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.pdb
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\ref\TravelManagemnet.Domain.dll

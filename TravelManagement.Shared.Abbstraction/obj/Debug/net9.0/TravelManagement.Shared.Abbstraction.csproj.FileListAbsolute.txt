@@ -1,0 +1,11 @@
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\bin\Debug\net9.0\TravelManagement.Shared.Abbstraction.deps.json
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\bin\Debug\net9.0\TravelManagement.Shared.Abbstraction.dll
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\bin\Debug\net9.0\TravelManagement.Shared.Abbstraction.pdb
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.AssemblyInfoInputs.cache
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.AssemblyInfo.cs
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.csproj.CoreCompileInputs.cache
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.dll
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\refint\TravelManagement.Shared.Abbstraction.dll
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.pdb
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\ref\TravelManagement.Shared.Abbstraction.dll
