@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\lib\\TravelManegment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\repositories\\itravelerchecklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\repositories\\itravelerchecklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\entities\\travelchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\entities\\travelchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\events\\traveleritemtaken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\events\\traveleritemtaken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\events\\traveleritemremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\events\\traveleritemremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\events\\traveleritemadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\events\\traveleritemadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared.abbstraction\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|solutionrelative:travelmanagement.shared.abbstraction\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared.abbstraction\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|solutionrelative:travelmanagement.shared.abbstraction\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\factories\\travelchecklistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\factories\\travelchecklistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.domain\\factories\\itravelchecklistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}|TravelManagemnet.Domain\\TravelManagemnet.Domain.csproj|solutionrelative:travelmanagemnet.domain\\factories\\itravelchecklistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +46,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITravelerCheckListRepository.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Repositories\\ITravelerCheckListRepository.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Repositories\\ITravelerCheckListRepository.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Repositories\\ITravelerCheckListRepository.cs",
+              "RelativeToolTip": "TravelManagemnet.Domain\\Repositories\\ITravelerCheckListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:23:17.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TravelerItemTaken.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Events\\TravelerItemTaken.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Events\\TravelerItemTaken.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Events\\TravelerItemTaken.cs",
+              "RelativeToolTip": "TravelManagemnet.Domain\\Events\\TravelerItemTaken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:16:25.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TravelerItemRemoved.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Events\\TravelerItemRemoved.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Events\\TravelerItemRemoved.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Events\\TravelerItemRemoved.cs",
+              "RelativeToolTip": "TravelManagemnet.Domain\\Events\\TravelerItemRemoved.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:16:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelCheckList.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Entities\\TravelCheckList.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Entities\\TravelCheckList.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Entities\\TravelCheckList.cs",
+              "RelativeToolTip": "TravelManagemnet.Domain\\Entities\\TravelCheckList.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:48:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelerItemAdded.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Events\\TravelerItemAdded.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Events\\TravelerItemAdded.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Events\\TravelerItemAdded.cs",
+              "RelativeToolTip": "TravelManagemnet.Domain\\Events\\TravelerItemAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:49:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Domain\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared.Abbstraction\\Domain\\AggregateRoot.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Domain\\AggregateRoot.cs",
+              "RelativeToolTip": "TravelManagement.Shared.Abbstraction\\Domain\\AggregateRoot.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:47:14.326Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -26,13 +136,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Domain\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared.Abbstraction\\Domain\\IDomainEvent.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Domain\\IDomainEvent.cs",
+              "RelativeToolTip": "TravelManagement.Shared.Abbstraction\\Domain\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:47:10.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TravelCheckListFactory.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Factories\\TravelCheckListFactory.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Factories\\TravelCheckListFactory.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Factories\\TravelCheckListFactory.cs",
+              "RelativeToolTip": "TravelManagemnet.Domain\\Factories\\TravelCheckListFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:36:47.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ITravelCheckListFactory.cs",
               "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Factories\\ITravelCheckListFactory.cs",
               "RelativeDocumentMoniker": "TravelManagemnet.Domain\\Factories\\ITravelCheckListFactory.cs",
               "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Domain\\Factories\\ITravelCheckListFactory.cs",
               "RelativeToolTip": "TravelManagemnet.Domain\\Factories\\ITravelCheckListFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T23:57:32.749Z",
               "EditorCaption": ""

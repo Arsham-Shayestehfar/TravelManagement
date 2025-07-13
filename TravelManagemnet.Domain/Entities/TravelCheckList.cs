@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TravelManagement.Shared.Abbstraction.Domain;
+using TravelManagemnet.Domain.Events;
 using TravelManagemnet.Domain.Exceptios;
 using TravelManagemnet.Domain.ValueObject;
 
@@ -45,6 +46,7 @@ namespace TravelManagemnet.Domain.Entities
                 throw new TravelerItemAlreadyExistsException(_name,item.Name);
             }
            _items.AddLast(item);
+            AddEvent(new TravelerItemAdded(this, item));
         }
 
         public void AddItems(IEnumerable<TravelerItem> items)
@@ -60,6 +62,7 @@ namespace TravelManagemnet.Domain.Entities
             var item = GetItem(ItemName);
             var TravelerItem = item with { IsTaken = true };
             _items.Find(item).Value = TravelerItem;
+            AddEvent(new TravelerItemTaken(this, item));
         }
 
         public TravelerItem GetItem(string ItemName)
@@ -76,6 +79,7 @@ namespace TravelManagemnet.Domain.Entities
         {
             var item = GetItem(ItemName);
             _items.Remove(item);
+            AddEvent(new TravelerItemRemoved(this, item));
         }
             
         

@@ -11,8 +11,9 @@ namespace TravelManagemnet.Domain.Factories
 {
     public interface ITravelCheckListFactory
     {
-        TravelCheckList Create(TravelerCheckListId id,TravelerCheckListName name,Destination destination);
-        TravelCheckList CreateWithDefailtItems(TravelerCheckListId id, TravelerCheckListName name, Destination destination
-          ,Temperature temperature ,Gender gender,TravelDays days );
+        TravelCheckList Create(TravelerCheckListId id, TravelerCheckListName name, Destination destination);
+
+        TravelCheckList CreateWithDefaultItems(TravelerCheckListId id, TravelerCheckListName name, TravelDays days, Gender gender,
+            Temperature temperature, Destination destination);
     }
 }
