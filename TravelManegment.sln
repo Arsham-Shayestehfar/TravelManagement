@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManagemnet.Domain", "TravelManagemnet.Domain\TravelManagemnet.Domain.csproj", "{1FD9DAA1-9D48-4C71-8277-9A58F1C6DF50}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManagement.Shared.Abbstraction", "TravelManagement.Shared.Abbstraction\TravelManagement.Shared.Abbstraction.csproj", "{6240062B-DA83-475E-A29B-A5292DD93851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManagemnet.Application", "TravelManagemnet.Application\TravelManagemnet.Application.csproj", "{D9F6C892-61B8-42C5-8288-FF79128187EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{6240062B-DA83-475E-A29B-A5292DD93851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6240062B-DA83-475E-A29B-A5292DD93851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6240062B-DA83-475E-A29B-A5292DD93851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F6C892-61B8-42C5-8288-FF79128187EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F6C892-61B8-42C5-8288-FF79128187EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F6C892-61B8-42C5-8288-FF79128187EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F6C892-61B8-42C5-8288-FF79128187EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
