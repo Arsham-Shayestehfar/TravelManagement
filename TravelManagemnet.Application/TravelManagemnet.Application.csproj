@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Queries\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\TravelManagemnet.Domain\TravelManagemnet.Domain.csproj" />
   </ItemGroup>
 
