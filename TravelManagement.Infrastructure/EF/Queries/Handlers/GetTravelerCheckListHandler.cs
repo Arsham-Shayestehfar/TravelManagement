@@ -5,10 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using TravelManagement.Shared.Abbstraction.Queries;
 using TravelManagemnet.Application.DTO;
+using TravelManagemnet.Application.Queries;
 using TravelManagemnet.Domain.Entities;
 using TravelManagemnet.Domain.Repositories;
 
-namespace TravelManagemnet.Application.Queries.Handlers
+namespace TravelManagement.Infrastructure.EF.Queries.Handlers
 {
     public class GetTravelerCheckListHandler : IQueryHandler<GetTravelerCheckList, TravelCheckListDto>
     {

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MJ+chwLX78+hh4wIAgb+Ae0aAm7ebHUVTVO1Sze60BQ=",
+  "Source": "TravelManagement.Api",
+  "BasePath": "_content/TravelManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

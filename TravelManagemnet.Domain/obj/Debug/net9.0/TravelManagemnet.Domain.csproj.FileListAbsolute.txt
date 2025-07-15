@@ -13,3 +13,4 @@ D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet
 D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\refint\TravelManagemnet.Domain.dll
 D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.pdb
 D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\ref\TravelManagemnet.Domain.dll
+D:\lib\TravelManegment\TravelManagemnet.Domain\obj\Debug\net9.0\TravelManagemnet.Domain.sourcelink.json

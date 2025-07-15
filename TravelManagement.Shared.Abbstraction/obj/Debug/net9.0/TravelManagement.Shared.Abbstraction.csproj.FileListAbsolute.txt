@@ -9,3 +9,4 @@ D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\Tra
 D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\refint\TravelManagement.Shared.Abbstraction.dll
 D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.pdb
 D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\ref\TravelManagement.Shared.Abbstraction.dll
+D:\lib\TravelManegment\TravelManagement.Shared.Abbstraction\obj\Debug\net9.0\TravelManagement.Shared.Abbstraction.sourcelink.json
