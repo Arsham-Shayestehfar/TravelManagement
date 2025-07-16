@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TravelManagement.Infrastructure.EF.Models
 {
-    internal class DestinationReadModel
+    public class DestinationReadModel
     {
         public string City { get; set; }
         public string Country { get; set; }

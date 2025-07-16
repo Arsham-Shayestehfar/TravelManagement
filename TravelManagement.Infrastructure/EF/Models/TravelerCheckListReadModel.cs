@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TravelManagement.Infrastructure.EF.Models
 {
-    internal class TravelerCheckListReadModel
+    public class TravelerCheckListReadModel
     {
         public Guid Id { get; set; }
         public int Version { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TravelManagement.Infrastructure.EF.Models
 {
-    internal class TravelerItemReadModel
+    public class TravelerItemReadModel
     {
         public Guid Id { get; set; }
         public string Name { get; set; }

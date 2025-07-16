@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "D:\\lib\\TravelManegment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\services\\travelerchecklistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\services\\travelerchecklistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.application\\commands\\handler\\createtravelerchecklistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|solutionrelative:travelmanagemnet.application\\commands\\handler\\createtravelerchecklistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.application\\services\\itravelerreadchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|solutionrelative:travelmanagemnet.application\\services\\itravelerreadchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\repositories\\travelchecklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\repositories\\travelchecklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\options\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\options\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D439A65-4E24-456D-84B7-76BDC76330BA}|TravelManagement.Api\\TravelManagement.Api.csproj|d:\\lib\\travelmanegment\\travelmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D439A65-4E24-456D-84B7-76BDC76330BA}|TravelManagement.Api\\TravelManagement.Api.csproj|solutionrelative:travelmanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\config\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\config\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\config\\writeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\config\\writeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\contexts\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\contexts\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\contexts\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\contexts\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\ef\\queries\\handlers\\gettravelerchecklisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\ef\\queries\\handlers\\gettravelerchecklisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.application\\exceptions\\travelerchecklistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|solutionrelative:travelmanagemnet.application\\exceptions\\travelerchecklistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TravelerCheckListReadService.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Services\\TravelerCheckListReadService.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Services\\TravelerCheckListReadService.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Services\\TravelerCheckListReadService.cs*",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Services\\TravelerCheckListReadService.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T05:01:58.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITravelerReadCheckList.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Services\\ITravelerReadCheckList.cs",
-              "RelativeDocumentMoniker": "TravelManagemnet.Application\\Services\\ITravelerReadCheckList.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Services\\ITravelerReadCheckList.cs*",
-              "RelativeToolTip": "TravelManagemnet.Application\\Services\\ITravelerReadCheckList.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Title": "TravelerCheckListAlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs*",
+              "RelativeToolTip": "TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:59:47.504Z",
+              "WhenOpened": "2025-07-16T23:49:48.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TravelCheckListRepository.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Repositories\\TravelCheckListRepository.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Repositories\\TravelCheckListRepository.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Repositories\\TravelCheckListRepository.cs*",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Repositories\\TravelCheckListRepository.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CreateTravelerCheckListWithItemsHandler.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs",
+              "RelativeDocumentMoniker": "TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs*",
+              "RelativeToolTip": "TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:54:36.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataBaseOptions.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\Options\\DataBaseOptions.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\Options\\DataBaseOptions.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\Options\\DataBaseOptions.cs*",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\Options\\DataBaseOptions.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:52:18.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Api\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TravelManagement.Api\\appsettings.Development.json",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Api\\appsettings.Development.json*",
-              "RelativeToolTip": "TravelManagement.Api\\appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-15T04:49:37.669Z",
+              "WhenOpened": "2025-07-16T23:45:41.272Z",
               "EditorCaption": ""
             },
             {
@@ -124,67 +53,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WriteConfiguration.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:24:42.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WriteDbContext.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:23:48.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReadConfiguration.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:20:11.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReadDbContext.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T00:16:14.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetTravelerCheckListHandler.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Queries\\Handlers\\GetTravelerCheckListHandler.cs",
-              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\EF\\Queries\\Handlers\\GetTravelerCheckListHandler.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\EF\\Queries\\Handlers\\GetTravelerCheckListHandler.cs",
-              "RelativeToolTip": "TravelManagement.Infrastructure\\EF\\Queries\\Handlers\\GetTravelerCheckListHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T23:21:32.999Z"
             }
           ]
         }

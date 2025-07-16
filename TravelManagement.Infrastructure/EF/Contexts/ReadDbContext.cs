@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace TravelManagement.Infrastructure.EF.Contexts
 {
-    internal sealed class ReadDbContext : DbContext
+    public sealed class ReadDbContext : DbContext
     {
         public DbSet<TravelerCheckListReadModel> TravelerCheckList { get; set; }
 
