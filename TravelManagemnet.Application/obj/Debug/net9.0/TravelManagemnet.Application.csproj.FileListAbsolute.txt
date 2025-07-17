@@ -16,3 +16,5 @@ D:\lib\TravelManegment\TravelManagemnet.Application\obj\Debug\net9.0\TravelManag
 D:\lib\TravelManegment\TravelManagemnet.Application\obj\Debug\net9.0\refint\TravelManagemnet.Application.dll
 D:\lib\TravelManegment\TravelManagemnet.Application\obj\Debug\net9.0\TravelManagemnet.Application.pdb
 D:\lib\TravelManegment\TravelManagemnet.Application\obj\Debug\net9.0\ref\TravelManagemnet.Application.dll
+D:\lib\TravelManegment\TravelManagemnet.Application\bin\Debug\net9.0\TravelManagement.Shared.dll
+D:\lib\TravelManegment\TravelManagemnet.Application\bin\Debug\net9.0\TravelManagement.Shared.pdb
