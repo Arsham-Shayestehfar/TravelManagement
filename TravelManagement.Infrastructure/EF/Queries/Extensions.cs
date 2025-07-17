@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using TravelManagement.Infrastructure.EF.Models;
 using TravelManagemnet.Application.DTO;
 
-namespace Final_SophieTravelManagement.Infrastructure.EF.Queries
+namespace TravelManagement.Infrastructure.EF.Queries
 {
     internal static class Extensions
     {

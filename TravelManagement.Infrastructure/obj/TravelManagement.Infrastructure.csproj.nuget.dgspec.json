@@ -196,7 +196,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj": {
+                "projectPath": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -214,6 +218,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

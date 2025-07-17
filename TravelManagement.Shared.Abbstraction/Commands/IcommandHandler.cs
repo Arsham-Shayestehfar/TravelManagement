@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TravelManagement.Shared.Abbstraction.Commands
 {
-    public interface IcommandHandler<in TCommand> where TCommand : class,Icommand
+    public interface IcommandHandler< in TCommand> where TCommand : class, Icommand
     {
         Task HandleAsync(TCommand command);
     }

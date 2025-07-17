@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\lib\\TravelManegment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.application\\commands\\handler\\createtravelerchecklistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|solutionrelative:travelmanagemnet.application\\commands\\handler\\createtravelerchecklistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00E9469C-75C8-479D-A97B-1C3D6F272C70}|TravelManagement.Shared\\TravelManagement.Shared.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared\\queries\\inmemoryquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9469C-75C8-479D-A97B-1C3D6F272C70}|TravelManagement.Shared\\TravelManagement.Shared.csproj|solutionrelative:travelmanagement.shared\\queries\\inmemoryquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|d:\\lib\\travelmanegment\\travelmanagemnet.application\\exceptions\\travelerchecklistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F6C892-61B8-42C5-8288-FF79128187EE}|TravelManagemnet.Application\\TravelManagemnet.Application.csproj|solutionrelative:travelmanagemnet.application\\exceptions\\travelerchecklistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared.abbstraction\\queries\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|solutionrelative:travelmanagement.shared.abbstraction\\queries\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E9469C-75C8-479D-A97B-1C3D6F272C70}|TravelManagement.Shared\\TravelManagement.Shared.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared\\commands\\inmemeroydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E9469C-75C8-479D-A97B-1C3D6F272C70}|TravelManagement.Shared\\TravelManagement.Shared.csproj|solutionrelative:travelmanagement.shared\\commands\\inmemeroydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared.abbstraction\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|solutionrelative:travelmanagement.shared.abbstraction\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|d:\\lib\\travelmanegment\\travelmanagement.shared.abbstraction\\commands\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6240062B-DA83-475E-A29B-A5292DD93851}|TravelManagement.Shared.Abbstraction\\TravelManagement.Shared.Abbstraction.csproj|solutionrelative:travelmanagement.shared.abbstraction\\commands\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|d:\\lib\\travelmanegment\\travelmanagement.infrastructure\\services\\dumbweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5FE4D7-F02C-40DC-82B4-72BE85671F3E}|TravelManagement.Infrastructure\\TravelManagement.Infrastructure.csproj|solutionrelative:travelmanagement.infrastructure\\services\\dumbweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TravelerCheckListAlreadyExistsException.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs",
-              "RelativeDocumentMoniker": "TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs*",
-              "RelativeToolTip": "TravelManagemnet.Application\\Exceptions\\TravelerCheckListAlreadyExistsException.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "InMemoryQueryDispatcher.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared\\Queries\\InMemoryQueryDispatcher.cs*",
+              "RelativeToolTip": "TravelManagement.Shared\\Queries\\InMemoryQueryDispatcher.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:49:48.559Z",
+              "WhenOpened": "2025-07-17T21:38:31.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateTravelerCheckListWithItemsHandler.cs",
-              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs",
-              "RelativeDocumentMoniker": "TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs",
-              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs*",
-              "RelativeToolTip": "TravelManagemnet.Application\\Commands\\Handler\\CreateTravelerCheckListWithItemsHandler.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IQueryDispatcher.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Queries\\IQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared.Abbstraction\\Queries\\IQueryDispatcher.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Queries\\IQueryDispatcher.cs*",
+              "RelativeToolTip": "TravelManagement.Shared.Abbstraction\\Queries\\IQueryDispatcher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T23:45:41.272Z",
+              "WhenOpened": "2025-07-17T21:36:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IcommandHandler.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Commands\\IcommandHandler.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared.Abbstraction\\Commands\\IcommandHandler.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Commands\\IcommandHandler.cs*",
+              "RelativeToolTip": "TravelManagement.Shared.Abbstraction\\Commands\\IcommandHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:24:06.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemeroyDispatcher.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared\\Commands\\InMemeroyDispatcher.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared\\Commands\\InMemeroyDispatcher.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared\\Commands\\InMemeroyDispatcher.cs*",
+              "RelativeToolTip": "TravelManagement.Shared\\Commands\\InMemeroyDispatcher.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:19:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommandDispatcher.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Commands\\ICommandDispatcher.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Shared.Abbstraction\\Commands\\ICommandDispatcher.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Shared.Abbstraction\\Commands\\ICommandDispatcher.cs*",
+              "RelativeToolTip": "TravelManagement.Shared.Abbstraction\\Commands\\ICommandDispatcher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:16:13.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DumbWeatherService.cs",
+              "DocumentMoniker": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\Services\\DumbWeatherService.cs",
+              "RelativeDocumentMoniker": "TravelManagement.Infrastructure\\Services\\DumbWeatherService.cs",
+              "ToolTip": "D:\\lib\\TravelManegment\\TravelManagement.Infrastructure\\Services\\DumbWeatherService.cs*",
+              "RelativeToolTip": "TravelManagement.Infrastructure\\Services\\DumbWeatherService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:12:05.001Z",
               "EditorCaption": ""
             },
             {

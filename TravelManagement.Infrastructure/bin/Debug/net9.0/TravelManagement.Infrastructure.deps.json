@@ -1013,6 +1013,10 @@
         }
       },
       "TravelManagement.Shared/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "9.0.7",
+          "TravelManagement.Shared.Abbstraction": "1.0.0"
+        },
         "runtime": {
           "TravelManagement.Shared.dll": {
             "assemblyVersion": "1.0.0.0",
