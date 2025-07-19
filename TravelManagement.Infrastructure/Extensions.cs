@@ -21,7 +21,7 @@ namespace TravelManagement.Infrastructure
             services.AddQueries();
             services.AddSingleton<IWeatherService, DumbWeatherService>();
 
-            //services.TryDecorate(typeof(IcommandHandler<>), typeof(LoggingCommandHandlerDecorator<>));
+            services.TryDecorate(typeof(IcommandHandler<>), typeof(Final_SophieTravelManagement.Infrastructure.Logging.LoggingCommandHandlerDecorator<>));
 
             return services;
         }

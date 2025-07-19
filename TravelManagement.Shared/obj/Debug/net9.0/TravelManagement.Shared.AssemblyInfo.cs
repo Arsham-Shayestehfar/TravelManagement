@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelManagement.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7035c28ff091055cec90f2416b701334c03d82d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+244eb82bb2a8fc0d31399d49dffc8d1d93e91711")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelManagement.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelManagement.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

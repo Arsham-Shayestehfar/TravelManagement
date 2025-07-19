@@ -10,4 +10,11 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TravelManagement.Infrastructure\TravelManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\TravelManagement.Shared.Abbstraction\TravelManagement.Shared.Abbstraction.csproj" />
+    <ProjectReference Include="..\TravelManagement.Shared\TravelManagement.Shared.csproj" />
+    <ProjectReference Include="..\TravelManagemnet.Application\TravelManagemnet.Application.csproj" />
+  </ItemGroup>
+
 </Project>
